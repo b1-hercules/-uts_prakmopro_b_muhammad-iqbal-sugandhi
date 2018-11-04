@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 04 20:10:18 WIB 2018
+0.baseType=DIRECTORY
+0.base=/home/nginx/AndroidStudioProjects/LateSoccer/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
